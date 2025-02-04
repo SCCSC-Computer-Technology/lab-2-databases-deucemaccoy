@@ -1,0 +1,12 @@
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\obj\Debug\andrew_foster_lab_2.csproj.AssemblyReference.cache
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\obj\Debug\andrew_foster_lab_2.Form1.resources
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\obj\Debug\andrew_foster_lab_2.Properties.Resources.resources
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\obj\Debug\andrew_foster_lab_2.csproj.GenerateResource.cache
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\obj\Debug\andrew_foster_lab_2.csproj.CoreCompileInputs.cache
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\bin\Debug\CityDB.mdf
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\bin\Debug\CityDB_log.ldf
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\bin\Debug\andrew_foster_lab_2.exe.config
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\bin\Debug\andrew_foster_lab_2.exe
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\bin\Debug\andrew_foster_lab_2.pdb
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\obj\Debug\andrew_foster_lab_2.exe
+C:\Users\amfos\source\repos\andrew_foster_lab_2\andrew_foster_lab_2\obj\Debug\andrew_foster_lab_2.pdb
